@@ -1,0 +1,183 @@
+{
+
+    "1" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "2" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "3" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "4" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "5" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "6" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "7" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "8" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "9" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "10" : {
+
+        "category": "gloves",
+
+        "name": "Elite Glove",
+
+        "description": "Perfect Glove",
+
+        "image": "Assets/Images/product.jpeg"
+
+    },
+
+    "11" : {
+
+        "category" : "shoes",
+
+        "name" : "Football Shoes",
+
+        "description" : "Perfect Shoes",
+
+        "image" : "Assets/Images/football.webp"
+
+    },
+
+    "12" : {
+
+        "category" : "shoes",
+
+        "name" : "Football Shoes",
+
+        "description" : "Perfect Shoes",
+
+        "image" : "Assets/Images/football.webp"
+
+    },
+
+    "13" : {
+
+        "category" : "shoes",
+
+        "name" : "Football Shoes",
+
+        "description" : "Perfect Shoes",
+
+        "image" : "Assets/Images/football.webp"
+
+    },
+
+    "14" : {
+
+        "category" : "shoes",
+
+        "name" : "Football Shoes",
+
+        "description" : "Perfect Shoes",
+
+        "image" : "Assets/Images/football.webp"
+
+    },
+
+    "15" : {
+
+        "category" : "shoes",
+
+        "name" : "Football Shoes",
+
+        "description" : "Perfect Shoes",
+
+        "image" : "Assets/Images/football.webp"
+
+    }
+
+}
