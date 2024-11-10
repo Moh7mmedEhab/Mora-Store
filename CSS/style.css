@@ -259,7 +259,7 @@ nav ul li a:hover,
 
   background-color: #ebebeb;
 
-  margin: 7.5px auto;
+  margin: 25px auto;
 
   width: 90vw;
 
@@ -391,6 +391,12 @@ nav ul li a:hover,
 
 }
 
+.product .overlay h4 {
+
+  font-size: 23.5px;
+
+}
+
 .product .overlay a {
 
   color: white;
@@ -418,6 +424,146 @@ nav ul li a:hover,
 .product:hover .overlay {
 
   height: calc(100% + 10px);
+
+}
+
+footer {
+
+  width: 100vw;
+
+  padding: 20px 0px;
+
+  background-color: #000000;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  flex-direction: column;
+
+  gap: 12px;
+
+}
+
+footer form {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  flex-direction: column;
+
+  gap: 12px;
+
+}
+
+.name, .email {
+
+  width: 300px;
+
+  height: 35px;
+
+  text-indent: 10px;
+
+  outline: none;
+
+  border: none;
+
+  border-radius: 7.5px;
+
+}
+
+.message {
+
+  padding: 10px 0px;
+
+  width: 300px;
+
+  height: 125px;
+
+  text-indent: 10px;
+
+  outline: none;
+
+  border: none;
+
+  border-radius: 7.5px;
+
+  resize: none;
+
+}
+
+.submit {
+
+  width: 75px;
+
+  height: 30px;
+
+  cursor: pointer;
+
+  border-radius: 7.5px;
+
+  outline: none;
+
+  border: none;
+
+  font-weight: bold;
+
+}
+
+footer ul {
+
+  display: flex;
+
+  gap: 25px;
+
+  align-items: center;
+
+  list-style-type: none;
+
+  margin: 20px 0px;
+
+}
+
+footer ul li a {
+
+  font-size: 40px;
+
+  color: white;
+
+  text-decoration: none;
+
+  transition-duration: 0.5s;
+
+}
+
+.footer-title {
+
+  color: white;
+
+  font-size: 20px;
+
+  padding: 10px;
+
+}
+
+.copyrights {
+
+  width: 100%;
+
+  border-top: 2px solid white;
+
+  padding-top: 20px;
+
+  font-size: 16px;
+
+  text-align: center;
+
+  color: white;
 
 }
 

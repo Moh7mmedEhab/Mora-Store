@@ -12,6 +12,12 @@ let gloves = document.querySelector("#gloves");
 
 let shoes = document.querySelector("#shoes");
 
+let copyRights = document.querySelector(".copyrights");
+
+let year = new Date().getFullYear();
+
+copyRights.textContent += year;
+
 async function getProducts() {
 
     await fetch("JS/JSON/main.json")
@@ -38,11 +44,11 @@ async function getProducts() {
 
                 overlay.className = "overlay";
 
-                let prName = document.createElement("h1");
+                let prName = document.createElement("h4");
 
                 prName.innerText = data[key].name;
 
-                let prDes = document.createElement("h2");
+                let prDes = document.createElement("p");
 
                 prDes.innerText = data[key].description;
 
@@ -84,11 +90,11 @@ async function getProducts() {
 
                 overlay.className = "overlay";
 
-                let prName = document.createElement("h1");
+                let prName = document.createElement("h4");
 
                 prName.innerText = data[key].name;
 
-                let prDes = document.createElement("h2");
+                let prDes = document.createElement("p");
 
                 prDes.innerText = data[key].description;
 
